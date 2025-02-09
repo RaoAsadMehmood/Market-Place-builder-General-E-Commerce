@@ -11,7 +11,7 @@ Welcome to the **Bandage Store**, an innovative e-commerce platform designed to 
 - **📦 Order Tracking** - Stay updated with live shipment tracking.  
 - **💳 Secure Payment Integration** - Multiple payment options, including credit cards, digital wallets, and COD.  
 - **🚚 Optimized Delivery System** - GPS-enabled shipment tracking for faster and more efficient deliveries.  
-- **🤖 AI-Powered Recommendations** - Personalized product suggestions based on user preferences.  
+
 
 ---
 
@@ -65,8 +65,7 @@ The application will be available at **http://localhost:3000**
 - **Product List Component** - Displays all available products.  
 - **Product Detail Component** - Shows product descriptions, images, and price details.  
 - **Cart Component** - Allows users to manage their selected products.  
-- **Wishlist Component** - Enables users to save products for later.  
-- **User Profile Component** - Manages user preferences and order history.  
+- **Wishlist Component** - Enables users to save products for later.   
 - **Checkout Component** - Facilitates a smooth payment process.  
 
 ---
